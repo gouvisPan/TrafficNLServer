@@ -12,6 +12,6 @@
 
 3) Install dependencies: npm install
  
-4) Start the backend server: nodemon start
+4) Start the backend server: npm start
 
 
