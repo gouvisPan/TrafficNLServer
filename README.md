@@ -24,10 +24,10 @@ A server application for the trafficNL app ( https://github.com/gouvisPan/Traffi
 ### Instructions
 1) Clone git repo: git clone https://github.com/gouvisPan/TrafficNLServer.git
 
-2) Go to the project directory: cd project-directory
+2) Go to the project directory: cd TrafficNLServer
 
 3) Install dependencies: npm install
  
-4) Start the backend server: npm start
+4) Start application: npm start
 
 
