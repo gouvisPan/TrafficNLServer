@@ -54,7 +54,10 @@ const trafficEvent = new mongoose.Schema(
     reason: {
       type: String,
     },
+    //auto expire functionality could be implemented here using  expireAt: {}
+    //to keep DB clean from old documents
   },
+
   { timestamps: true }
 );
 
