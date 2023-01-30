@@ -5,17 +5,13 @@
 ## How to install
 ### NodeJS is a prerequisite, install latest NodeJS here : https://nodejs.org/en/download/
 
-Clone git repo 
-git clone https://github.com/gouvisPan/TrafficNLServer.git
+### Instructions
+1) Clone git repo: git clone https://github.com/gouvisPan/TrafficNLServer.git
 
-Go to the project directory
-cd project-directory
+2) Go to the project directory: cd project-directory
 
-Install dependencies
- npm install
+3) Install dependencies: npm install
  
-Start the backend server
-
-nodemon start
+4) Start the backend server: nodemon start
 
 
