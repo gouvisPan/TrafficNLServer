@@ -22,12 +22,28 @@ A server application for the trafficNL app ( https://github.com/gouvisPan/Traffi
 ### NodeJS is a prerequisite, install latest NodeJS here : https://nodejs.org/en/download/
 
 ### Instructions
-1) Clone git repo: git clone https://github.com/gouvisPan/TrafficNLServer.git
+1) Clone git repo:
+```
+ git clone https://github.com/gouvisPan/TrafficNLServer.git
+ ```
 
-2) Go to the project directory: cd TrafficNLServer
 
-3) Install dependencies: npm install
+2) Go to the project directory:
+ ```
+ cd TrafficNLServer
+ ```
+
+
+3) Install dependencies:
+```
+npm install
+```
+
  
-4) Start application: npm start
+4) Start application: 
+ ```
+npm start
+```
+
 
 
